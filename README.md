@@ -1,5 +1,5 @@
 # SAHAYAK
-![alt text](https://github.com/ramsuthar305/Swachh/blob/master/swachh.gif "SAHAYAK gif")
+![alt text](https://github.com/Anshit18/SAHAYAK/blob/main/SAHAYAK.gif "SAHAYAK gif")
 
 In developing country like India, people face lots of problem in day today life. Major of them
 are Potholes on the roads, Garbage on the streets, sewage leakage etc. These problems cause
